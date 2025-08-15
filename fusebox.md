@@ -8,8 +8,8 @@
 
 Qilowatt sagedusturul kasutatakse kahte tüüpi käske:
 
-- **BUY** – Arvesse läheb energia, mis läheb **akusse**. Energia päritolu ei ole oluline.
-- **SELL** – Arvesse läheb energia, mis tuleb **akust**. Energia sihtkoht (enda tarbimine või võrku müük) ei ole oluline.  
+- **BUY/DOWN** – Arvesse läheb energia, mis läheb **akusse**. Energia päritolu ei ole oluline.
+- **SELL/UP** – Arvesse läheb energia, mis tuleb **akust**. Energia sihtkoht (enda tarbimine või võrku müük) ei ole oluline.  
   Kõrge Nord Pool Spot (NPS) hinnaga on **võrku müük** sageli kasulikum.
 
 ---
